@@ -10,6 +10,6 @@
 int sumOfNums(int a, int b)
 {
 	//Sub1 change 11:50
-	//Making some chnages as per real feature1
-	return (a+b); //Return sum
+	//Making some changes as per real feature1
+	return (a+b+5); //Return sum
 }
