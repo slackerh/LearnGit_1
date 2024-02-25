@@ -9,6 +9,7 @@
 
 int sumOfNums(int a, int b)
 {
+	//Check if status updates
 	//Try pull cmd again
 	//Try pull cmd
 	//sub1 08:25
