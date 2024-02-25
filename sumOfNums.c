@@ -9,6 +9,7 @@
 
 int sumOfNums(int a, int b)
 {
+	//Try pull cmd
 	//sub1 08:25
 	//25-Feb 08:08 PM
 	//Sub1 change 11:50
